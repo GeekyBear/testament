@@ -1,0 +1,1 @@
+C:\Proyectos\soroban_testament\soroban-token-spec\target\debug\libsoroban_token_spec.rlib: C:\Proyectos\soroban_testament\soroban-token-spec\src\lib.rs C:\Proyectos\soroban_testament\soroban-token-spec\src\tests.rs

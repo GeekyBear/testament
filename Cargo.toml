@@ -1,0 +1,17 @@
+[package]
+name = "soroban_testament"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[features]
+testutils = ["soroban-sdk/testutils"]
+
+[dependencies]
+soroban-sdk = "0.3.2"
+soroban-auth = "0.3.2"
+
+[dev_dependencies]
+soroban-sdk = { version = "0.3.2", features = ["testutils"] }
+soroban-auth = { version = "0.3.2", features = ["testutils"] }

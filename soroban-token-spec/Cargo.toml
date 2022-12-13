@@ -1,0 +1,28 @@
+[package]
+name = "soroban-token-spec"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+doctest = false
+
+[features]
+testutils = ["soroban-sdk/testutils", "dep:ed25519-dalek", "dep:rand"]
+
+
+[dependencies]
+soroban-sdk = "0.3.2"
+soroban-auth = "0.3.2"
+
+[target.'cfg(not(target_family="wasm"))'.dependencies]
+ed25519-dalek = { version = "1.0.1", optional = true }
+rand = { version = "0.7.3", optional = true }
+
+[dev_dependencies]
+soroban-sdk = { version = "0.3.2", features = ["testutils"] }
+soroban-auth = { version = "0.3.2", features = ["testutils"] }
+ed25519-dalek = { version = "1.0.1" }
+rand = { version = "0.7.3" }

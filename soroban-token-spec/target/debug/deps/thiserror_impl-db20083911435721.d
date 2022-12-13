@@ -1,0 +1,12 @@
+C:\Proyectos\soroban_testament\soroban-token-spec\target\debug\deps\thiserror_impl-db20083911435721.dll: C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\lib.rs C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\ast.rs C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\attr.rs C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\expand.rs C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\fmt.rs C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\generics.rs C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\prop.rs C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\valid.rs
+
+C:\Proyectos\soroban_testament\soroban-token-spec\target\debug\deps\thiserror_impl-db20083911435721.d: C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\lib.rs C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\ast.rs C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\attr.rs C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\expand.rs C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\fmt.rs C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\generics.rs C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\prop.rs C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\valid.rs
+
+C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\lib.rs:
+C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\ast.rs:
+C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\attr.rs:
+C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\expand.rs:
+C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\fmt.rs:
+C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\generics.rs:
+C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\prop.rs:
+C:\Users\Eze\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.37\src\valid.rs:
